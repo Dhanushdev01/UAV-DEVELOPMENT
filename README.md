@@ -1,4 +1,4 @@
-# ⭐ Enhanced Network Traffic Analysis Using Rayleigh and ARIMA Model ⭐
+# ⭐ Enhanced and Envision Approach For Network Traffic Analysis Using Rayleigh and ARIMA Model ⭐
 
 ## 🚀 Overview
 The "Enhanced Network Traffic Analysis Using Rayleigh and ARIMA Model" project is a cutting-edge application that leverages Rayleigh and ARIMA models to analyze network traffic data. In an era where network security and efficiency are crucial, this project offers a novel and data-driven approach.
@@ -16,7 +16,7 @@ This open-source project is a step forward in network traffic analysis and can s
 ## ⚙️ Installation
 To get started with the Enhanced Network Traffic Analysis project, follow these simple installation steps:
 
-## Prerequisites
+### Prerequisites
 Before you begin, ensure you have the following prerequisites installed on your system:
 • Python (3.6 or higher)
 • Jupyter Notebook (if running the project in a Jupyter environment)
