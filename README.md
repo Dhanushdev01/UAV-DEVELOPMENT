@@ -20,4 +20,4 @@ To get started with the Enhanced Network Traffic Analysis project, follow these 
 Before you begin, ensure you have the following prerequisites installed on your system:
 • Python (3.6 or higher)
 • Jupyter Notebook (if running the project in a Jupyter environment)
-• Required Python libraries (you can install these using pip):
+
